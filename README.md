@@ -1,9 +1,8 @@
 ## 2021 Project 1
-
-Εκφώνηση: https://k08.chatzi.org/projects/project1/
-Το αρχείο αυτό δημιουργήθηκε ως back up του original. Για να μην χάσω τελείως την πρώτη προσπάθεια μου να φτίακω ένα παιχνίδι!
 Anna Gogoula
 
+Εκφώνηση: https://k08.chatzi.org/projects/project1/
+Το αρχείο αυτό δημιουργήθηκε ως back up του original. Για να μην χάσω τελείως την πρώτη προσπάθεια μου να φτίαξω ένα παιχνίδι!
 
 ### Documentation
 ***
